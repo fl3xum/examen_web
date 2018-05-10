@@ -1,0 +1,16 @@
+#main_menu {
+	text-align: center;
+	float: center;
+	padding: 20px 0px 20px 190px;
+	width: 90%;
+	height: 50px;
+	color: white;
+	background-color: black;
+}
+
+li { 
+	display:inline-block;
+}
+
+#bloque1 {
+	float: right;
