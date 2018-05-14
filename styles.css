@@ -13,4 +13,35 @@ li {
 }
 
 #bloque1 {
+	padding: 30px 
+}
+	
+
+#filas {
+	display: inline-block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.center1 {
+    display: block;
+	margin-left: auto;
+    margin-right: auto;
+	width: 1290px;
+	
+}
+
+.center2 {
+    margin-left: 50px;
+    margin-right: auto;
+}
+
+.left {
+  float:left;
+  margin-left: 250px;
+}
+
+.right {
 	float: right;
+	margin-left: 50px;
+}
